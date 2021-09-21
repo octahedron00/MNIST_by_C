@@ -6,7 +6,7 @@ unsigned char buffer[784];
 char s1[10] = {' ', '.', ':', 'l', 'M', '#', '8', '@'};
 
 int main(){
-	int i, j, n, a=28, s, b=0, t;
+	int i, j, n, a=28, s, b=0, t, start, end;
 	
 	FILE *image = fopen("train-images.idx3-ubyte","rb");
 	FILE *label = fopen("train-labels.idx1-ubyte","rb");		
@@ -86,7 +86,23 @@ int main(){
 //			printf("\n");
 //		}
 //	}
-	for(t=59990; t<60000; t++){
+
+	again1:;
+	printf("Select Interval to read from : ");
+	scanf("%d",&start);
+	if(start<0||59999<start){
+		printf("Number error.\n");
+		goto again1;
+	}
+	again2:;
+	printf("Select Interval to read to : ");
+	scanf("%d",&end);
+	if(end<start||59999<end){
+		printf("Number error.\n");
+		goto again2;
+	}
+	
+	for(t=start; t<end+1; t++){
 		printf("\n\ndataset[%d] = %d + Ascii-Art\n",t,y[t]);			//show dataset, for 59990 ~ 59999 (data : 0 ~ 59999)
 		for(i=0; i<a+2; i++){
 			printf("--");
@@ -104,5 +120,6 @@ int main(){
 		}
 	}
 	
+	getchar();		//hold
 	return 0;
 }
