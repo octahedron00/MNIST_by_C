@@ -22,7 +22,7 @@ A simple file reader.
 
 You can select intervals to read.
 
-This code shows data in dataset by using ASCII-art.
+This code shows data in dataset by using own ASCII-art.
 
 ## [1_mnist_NN](1_mnist_NN/)
 
