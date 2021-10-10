@@ -20,9 +20,11 @@ S3 : **32 to 10**, using **Sigmoid** as activation func
 
 Error rate : ~ 4.5% in 10 epochs
 
+Features : **New**
+
 ---
 
-### [1_mnist_NN_softmax.cpp](1_mnist_NN_softmax.cpp)
+### [1_mnist_NN_Softmax.cpp](1_mnist_NN_Softmax.cpp)
 
 S1 : **784 to 32**, using Sigmoid as activation func
 
@@ -32,17 +34,21 @@ S3 : **32 to 10**, using **Softmax** as activation func
 
 Error rate : ~ 5.1% in 10 epochs
 
+Features : Normalization by Softmax function, and Derivatives of it
+
 ---
 
 ### 1_mnist_NN_ReLu.cpp
 
-S1 : **784 to 32**, using **ReLu** as activation func 
+S1 : **784 to 32**, using **ReLu** as activation func
 
 S2 : **32 to 32**, using **ReLu** as activation func
 
 S3 : **32 to 10**, using **Softmax** as activation func
 
 Error rate : ~ ?.?% in 10 epochs
+
+Features : Faster Calculation, Better than Sigmoids.
 
 ---
 
