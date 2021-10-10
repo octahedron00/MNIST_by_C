@@ -12,15 +12,15 @@ This code can get about **1.5% error rate in 10 epochs.**
 
 ### [2_mnist_CNN.cpp](2_mnist_CNN.cpp)
 
-C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
-
+> C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
+>
 > no paddings, no strides
 > 
 > using **Sigmoid** as activation func
-
-S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
-
-S3 : **32 to 10**, using **Sigmoid** as activation func
+>
+> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+>
+> S3 : **32 to 10**, using **Sigmoid** as activation func
 
 Error rate : ~ 1.4% in 10 epochs
 
