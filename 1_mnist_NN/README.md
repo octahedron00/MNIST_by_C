@@ -1,4 +1,4 @@
-## 0_mnist_reader
+## 1_mnist_NN
 
 ### 784 - 32 - 32 - 10
 
