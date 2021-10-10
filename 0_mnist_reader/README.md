@@ -6,6 +6,8 @@ You can select intervals to read.
 
 This code shows data in dataset by using own ASCII-art.
 
+---
+
 ### How to use
 
 You can download exe files to run program, or cpp files to read and edit.
