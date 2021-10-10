@@ -34,7 +34,7 @@ S3 : **32 to 10**, using **Softmax** as activation func
 
 Error rate : ~ 5.1% in 10 epochs
 
-Features : Normalization by Softmax function, and Derivatives of it
+Features : **Normalization** by Softmax function, and Derivatives of it
 
 ---
 
@@ -48,7 +48,7 @@ S3 : **32 to 10**, using **Softmax** as activation func
 
 Error rate : ~ ?.?% in 10 epochs
 
-Features : Faster Calculation, Better than Sigmoids.
+Features : **Faster Calculation**, Better than Sigmoids.
 
 ---
 
