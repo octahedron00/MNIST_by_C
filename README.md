@@ -28,7 +28,23 @@ This code shows data in dataset by using own ASCII-art.
 
 ### 784 - 32 - 32 - 10
 
-A simple neural network
+A simple neural network.
 
-This code can get about 5% error rate in 10 epochs.
+Training : 60000 images, Testing : 10000 images 
+
+This code can get about **5% error rate in 10 epochs.**
+
+## [2_mnist_CNN](2_mnist_CNN/)
+
+### 28\*28 - 16@24\*24 - 32 - 10
+
+A simple convolutional neural network.
+
+Training : 60000 images, Testing : 10000 images 
+
+This uses 5\*5 convolutional nets, no paddings.
+
+This code can get about **1.4% error rate in 10 epochs.**
+
+## [3_mnist_???](/)
 
