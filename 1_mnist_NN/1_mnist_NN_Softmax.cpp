@@ -1,7 +1,7 @@
 /*
 	by Octo Moon
-	I Did It!!
-	2021.09.18
+	I Did It Again!!
+	2021.10.01
 	
 	
 	layer 0 : 784 (28*28)
