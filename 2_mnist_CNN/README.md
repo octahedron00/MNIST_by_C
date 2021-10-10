@@ -24,6 +24,8 @@ S3 : **32 to 10**, using **Sigmoid** as activation func
 
 Error rate : ~ 1.4% in 10 epochs
 
+Features : **Better Accuracy**, because of adding positional information
+
 ---
 
 ### How to use
