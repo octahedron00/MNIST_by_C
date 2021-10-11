@@ -50,11 +50,20 @@ A simple convolutional neural network.
 
 Training : 60000 images, Testing : 10000 images 
 
-This uses 5\*5 convolutional nets, no paddings.
+This uses 5\*5 convolutional nets.
 
 This code can get about **1.4% error rate in 10 epochs.**
 
 ---
 
-## [3_mnist_???](/)
+## [3_mnist_99%](3_mnist_99%/)
 
+### 35\*35 - 8@14\*14 - 8@7\*7 - 32 - 10
+
+A CNN to make 99% accuracy faster.
+
+Training : 60000 images, Testing : 10000 images 
+
+This uses 9\*9 convolutional nets, 3 and 4 paddings, 2 strides.
+
+This code can get about **0.9% error rate in "30" epochs.**
