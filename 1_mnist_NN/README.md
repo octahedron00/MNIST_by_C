@@ -34,7 +34,7 @@ Features : **New**
 >
 > S3 : **32 to 10**, using **Softmax** as activation func
 
-Error rate : ~ 5.1% in 10 epochs
+Error rate : ~ **5.1%** in 10 epochs
 
 Total Training Time : about **2 min** for 10 epochs
 
