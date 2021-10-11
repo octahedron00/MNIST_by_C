@@ -18,7 +18,9 @@ This code can get about **5% error rate in 10 epochs.**
 >
 > S3 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ 4.5% in 10 epochs
+Error rate : ~ **4.5%** in 10 epochs
+
+Total Training Time : about **2 min** for 10 epochs
 
 Features : **New**
 
@@ -34,6 +36,8 @@ Features : **New**
 
 Error rate : ~ 5.1% in 10 epochs
 
+Total Training Time : about **2 min** for 10 epochs
+
 Features : **Normalization** by Softmax function, and Derivatives of it
 
 ---
@@ -47,6 +51,8 @@ Features : **Normalization** by Softmax function, and Derivatives of it
 > S3 : **32 to 10**, using **Softmax** as activation func
 
 Error rate : ~ ?.?% in 10 epochs
+
+Total Training Time : about ? min for 10 epochs
 
 Features : **Faster Calculation**, Better than Sigmoids.
 
