@@ -86,9 +86,9 @@ Features : **Faster time**, because of using strides.
 
 Error rate : ~ **1.5%** in 10 epochs
 
-Total Training Time : about **10 min** for 10 epochs
+Total Training Time : about **45 min** for 10 epochs
 
-Features : **Faster time**, because of adding positional information by convolution
+Features : **Faster time and better accuracy**, maybe bigger convolutional net works better..
 
 ---
 
