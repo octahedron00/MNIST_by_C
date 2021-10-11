@@ -38,7 +38,7 @@ Features : **Normalization** by Softmax function, and Derivatives of it
 
 ---
 
-### 1_mnist_NN_ReLu.cpp
+### 1_mnist_NN_ReLu.cpp - Not Working Yet...
 
 > S1 : **784 to 32**, using **ReLu** as activation func
 >
