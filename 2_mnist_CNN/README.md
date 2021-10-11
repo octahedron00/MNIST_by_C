@@ -28,6 +28,60 @@ Features : **Better Accuracy**, because of adding positional information by conv
 
 ---
 
+### [2_mnist_CNN_MaxPooling.cpp](2_mnist_CNN_MaxPooling.cpp)
+
+> C1 : **28\*28 to 14\*14**, by 16 5\*5 convolution nets
+>
+> no paddings, no strides
+> 
+> using **Sigmoid** as activation func
+>
+> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+>
+> S3 : **32 to 10**, using **Sigmoid** as activation func
+
+Error rate : ~ 1.4% in 10 epochs
+
+Features : **Better Accuracy**, because of adding positional information by convolution
+
+---
+
+### [2_mnist_CNN_Stride.cpp](2_mnist_CNN_Stride.cpp)
+
+> C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
+>
+> no paddings, no strides
+> 
+> using **Sigmoid** as activation func
+>
+> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+>
+> S3 : **32 to 10**, using **Sigmoid** as activation func
+
+Error rate : ~ 1.4% in 10 epochs
+
+Features : **Better Accuracy**, because of adding positional information by convolution
+
+---
+
+### [2_mnist_CNN_9by9.cpp](2_mnist_CNN_9by9.cpp)
+
+> C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
+>
+> no paddings, no strides
+> 
+> using **Sigmoid** as activation func
+>
+> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+>
+> S3 : **32 to 10**, using **Sigmoid** as activation func
+
+Error rate : ~ 1.4% in 10 epochs
+
+Features : **Better Accuracy**, because of adding positional information by convolution
+
+---
+
 ### How to use
 
 You can download exe files to run program, or cpp files to read and edit.
