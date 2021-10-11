@@ -1,6 +1,6 @@
 # MNIST_by_C
 
-### A Neural Network solving MNIST only with C/C++.
+### Neural Networks solving MNIST only with C/C++.
 
 #### Without any package, class, pre-written code.
 
