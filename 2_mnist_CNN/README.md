@@ -22,7 +22,9 @@ This code can get about **1.5% error rate in 10 epochs.**
 >
 > S3 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ 1.4% in 10 epochs
+Error rate : ~ **1.4%** in 10 epochs
+
+Total Training Time : about **70 min** for 10 epochs
 
 Features : **Better Accuracy**, because of adding positional information by convolution
 
@@ -30,55 +32,65 @@ Features : **Better Accuracy**, because of adding positional information by conv
 
 ### [2_mnist_CNN_MaxPooling.cpp](2_mnist_CNN_MaxPooling.cpp)
 
-> C1 : **28\*28 to 14\*14**, by 16 5\*5 convolution nets
+> C1 : **28\*28 to 14\*14**, by 2\*2 max pooling
+> 
+> C2 : **14\*14 to 16@10\*10**, by 16 5\*5 convolution nets
 >
 > no paddings, no strides
 > 
 > using **Sigmoid** as activation func
 >
-> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+> S3 : **16@10\*10 to 32**, using **Sigmoid** as activation func
 >
-> S3 : **32 to 10**, using **Sigmoid** as activation func
+> S4 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ 1.4% in 10 epochs
+Error rate : ~ **2.8%** in 10 epochs
 
-Features : **Better Accuracy**, because of adding positional information by convolution
+Total Training Time : about **10 min** for 10 epochs
+
+Features : **Faster time**, because of less data using
 
 ---
 
 ### [2_mnist_CNN_Stride.cpp](2_mnist_CNN_Stride.cpp)
 
-> C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
+> C1 : **28\*28 to 16@10\*10**, by 16 5\*5 convolution nets
 >
 > no paddings, no strides
 > 
 > using **Sigmoid** as activation func
 >
-> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+> S2 : **16\*10\*10 to 32**, using **Sigmoid** as activation func
 >
 > S3 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ 1.4% in 10 epochs
+Error rate : ~ **?.?%** in 10 epochs
 
-Features : **Better Accuracy**, because of adding positional information by convolution
+Total Training Time : about **20 min** for 10 epochs
+
+Features : **Faster time**, because of adding positional information by convolution
 
 ---
 
 ### [2_mnist_CNN_9by9.cpp](2_mnist_CNN_9by9.cpp)
 
-> C1 : **28\*28 to 16@24\*24**, by 16 5\*5 convolution nets
+> C1 : **28\*28 to 14\*14**, by 2\*2 max pooling
+> 
+> C2 : **14\*14 to 16@10\*10**, by 16 5\*5 convolution nets
 >
 > no paddings, no strides
 > 
 > using **Sigmoid** as activation func
 >
-> S2 : **16\*24\*24 to 32**, using **Sigmoid** as activation func
+> S2 : **16\*10\*10 to 32**, using **Sigmoid** as activation func
 >
 > S3 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ 1.4% in 10 epochs
+Error rate : ~ **2.8%** in 10 epochs
 
-Features : **Better Accuracy**, because of adding positional information by convolution
+Total Training Time : about **10 min** for 10 epochs
+
+Features : **Faster time**, because of adding positional information by convolution
 
 ---
 
