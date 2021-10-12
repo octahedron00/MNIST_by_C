@@ -26,6 +26,6 @@ Writing neural net codes like this on **C++** is **so painful.**
 > 
 > and a lot.
 
-### Now I'll try using Python, TensorFlow.
+### Now I'll try using Python, TensorFlow
 
 See you soon!
