@@ -36,6 +36,8 @@ Using CNN takes too long, because the number of calculation grows so high.
 
 So I tried to reduce time, by using strides, max pooling layer, etc.
 
+### [2_mnist_CNN_MaxPooling.cpp](2_mnist_CNN_MaxPooling.cpp)
+
 > Using max pooling directly into first layer **Didn't Work.**
 > 
 > : Total training time reduced effectively, of course..
@@ -44,11 +46,15 @@ So I tried to reduce time, by using strides, max pooling layer, etc.
 > 
 > : Losing quality of original data was so harsh.
 
+### [2_mnist_CNN_Stride.cpp](2_mnist_CNN_Stride.cpp)
+
 > Using strides 2 on first CNN layer **Worked.**
 > 
 > : Total training time also reduced effectively.
 > 
 > : But, maybe the convolutional net is so small to use strides 2...
+
+### [2_mnist_CNN_9by9.cpp](2_mnist_CNN_9by9.cpp)
 
 > Using 9 by 9 net, strides 2, 3 and 4 paddings **Worked.**
 > 
@@ -62,4 +68,8 @@ So I tried to reduce time, by using strides, max pooling layer, etc.
 
 **1. to get 99% accuracy somehow.**
 
+: Maybe using more floors of CNN will work better...
+
 **2. to use ReLu or else activation function, to make the traning much faster.**
+
+: Since sigmoid takes a lot of calculation(exponentional function)...
