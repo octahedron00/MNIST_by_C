@@ -13,7 +13,7 @@
 	traning with 60,000 images,
 	testing with 10,000 images.
 	
-	Error rate : n/a
+	Error rate : about 2.5% in 10 epochs
 		
 	Copyright?
 */
