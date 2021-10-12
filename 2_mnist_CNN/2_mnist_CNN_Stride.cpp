@@ -1,8 +1,5 @@
 /*
 	by Octo Moon
-	I Did It Again!!!
-	2021.09.19
-	
 	
 	layer 0 : 784 (28*28)
 	layer 1 : 16 * 13*13 (CNN 5*5, stride 2)
@@ -12,7 +9,7 @@
 	traning with 60,000 images,
 	testing with 10,000 images.
 	
-	Error rate : ??
+	Error rate : about 1.6% in 10 epochs
 		
 	Copyright?
 */
