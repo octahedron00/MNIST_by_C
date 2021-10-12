@@ -10,7 +10,7 @@ This code can get about **0.9% error rate in 30 epochs.**
 
 ---
 
-### [3_mnist_99%_MaxPooling.cpp](3_mnist_99%_MaxPooling.cpp)
+### [3_mnist_99%_MaxPooling.cpp](3_mnist_99%25_MaxPooling.cpp)
 
 > C1 : **28\*28 to 16@14\*14**, by 16 9\*9 convolution nets
 >
