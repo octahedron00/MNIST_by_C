@@ -1,8 +1,5 @@
 /*
 	by Octo Moon
-	Test for compression!
-	2021.09.19
-	
 	
 	raw layer : 784 (28*28)
 	layer 0 : 196 (14*14) (Max comp)
