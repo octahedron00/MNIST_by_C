@@ -48,7 +48,7 @@ int main(){
 	FILE *image_test = fopen("t10k-images.idx3-ubyte","rb");
 	FILE *label_test = fopen("t10k-labels.idx1-ubyte","rb");
 	n2 = 10000;
-	FILE *log = fopen("2.log", "w");
+	FILE *log = fopen("2_mnist_CNN.log", "w");
 
 	if(!(image&&label)){
 		printf("File is not selected");
