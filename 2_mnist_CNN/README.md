@@ -64,7 +64,7 @@ Features : **Faster time**, because of less data using
 >
 > S3 : **32 to 10**, using **Sigmoid** as activation func
 
-Error rate : ~ **?.?%** in 10 epochs
+Error rate : ~ **1.6%** in 10 epochs
 
 Total Training Time : about **20 min** for 10 epochs
 
