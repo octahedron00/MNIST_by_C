@@ -18,7 +18,7 @@ This code can get about **0.9% error rate in 30 epochs.**
 > 
 > using **Sigmoid** as activation func
 >
-> C2 : 16@14\*14 to 16@7\*7, by 2\*2 max pooling
+> C2 : **16@14\*14 to 16@7\*7**, by 2\*2 max pooling
 >
 > S3 : **16\*7\*7 to 32**, using **Sigmoid** as activation func
 >
