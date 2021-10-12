@@ -56,7 +56,7 @@ This code can get about **1.4% error rate in 10 epochs.**
 
 ---
 
-## [3_mnist_99%](3_mnist_99%/)
+## [3_mnist_99%](3_mnist_99%25/)
 
 ### 35\*35 - 8@14\*14 - 8@7\*7 - 32 - 10
 
