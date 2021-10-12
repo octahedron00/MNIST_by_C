@@ -8,6 +8,8 @@ Training : 60000 images, Testing : 10000 images
 
 This code can get about **0.9% error rate in 30 epochs.**
 
+**[Memo Here](memo.md)**
+
 ---
 
 ### [3_mnist_99%_MaxPooling.cpp](3_mnist_99%25_MaxPooling.cpp)
