@@ -13,7 +13,7 @@
 	testing with 10,000 images.
 	
 	
-	Error rate : 1.59% in 10 epochs
+	Error rate : about 1.5% in 10 epochs
 		
 	Copyright?
 */
