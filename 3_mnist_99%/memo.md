@@ -32,6 +32,10 @@ Writing neural net codes like this on **C++** is **so painful.**
 
 ---
 
+### This is my first project published on github.
+
+Maybe someone will get something from this code, I think...
+
 ### Now I'll try using Python, TensorFlow
 
 See you soon!
