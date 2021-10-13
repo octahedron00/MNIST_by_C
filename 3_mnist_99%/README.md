@@ -8,7 +8,7 @@ Training : 60000 images, Testing : 10000 images
 
 This code can get about **0.9% error rate in 30 epochs.**
 
-**[Memo Here](memo.md)**
+**[My memo Here](memo.md)**
 
 ---
 
