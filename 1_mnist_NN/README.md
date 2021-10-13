@@ -8,6 +8,8 @@ Training : 60000 images, Testing : 10000 images
 
 This code can get about **5% error rate in 10 epochs.**
 
+**[Memo here](memo.md)**
+
 ---
 
 ### [1_mnist_NN.cpp](1_mnist_NN.cpp)
