@@ -48,4 +48,4 @@ After a few of debuggings, It worked.
 
 #### Just putting ReLu doesn't work well...
 
-Now, I'm handling with it, by learning **Batch Normalization.**
+Now, I can handle with it, by learning **Batch Normalization.**
