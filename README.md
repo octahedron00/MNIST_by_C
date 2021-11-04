@@ -67,3 +67,15 @@ Training : 60000 images, Testing : 10000 images
 This uses 9\*9 convolutional nets, 3 and 4 paddings, 2 strides.
 
 This code can get about **0.9% error rate in "30" epochs.**
+
+---
+
+## [4_mnist_BN](4_mnist_BN/)
+
+### Usage of ReLU and Batch Normalization
+
+NN and CNN using Leak-ReLU and BN layer successfully.
+
+Training : 60000 images, Testing : 10000 images
+
+CNN one uses 9\*9 convolutional nets, 3 and 4 paddings, 2 strides.
