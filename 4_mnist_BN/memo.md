@@ -8,7 +8,7 @@ It now worked!
 
 ### Not So Fast
 
-For some Batch Normalization in layer of size n,
+For gradient descend through some Batch Normalization in layer of size n,
 
 The calculation time complexity(TC) is about **O(n^2)**.
 
