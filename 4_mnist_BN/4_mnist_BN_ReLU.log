@@ -1,0 +1,237 @@
+
+70000 data is completely served, file closed
+
+Total traning time : 10
+1, 10000/60000, success : 7303/10000
+Average Loss : 0.446301 
+
+1, 20000/60000, success : 8786/10000
+Average Loss : 0.242137 
+
+1, 30000/60000, success : 9031/10000
+Average Loss : 0.192700 
+
+1, 40000/60000, success : 9131/10000
+Average Loss : 0.173870 
+
+1, 50000/60000, success : 9174/10000
+Average Loss : 0.166361 
+
+1, 60000/60000, success : 9372/10000
+Average Loss : 0.132783 
+
+
+0.879950
+
+
+
+2, 10000/60000, success : 9344/10000
+Average Loss : 0.135652 
+
+2, 20000/60000, success : 9389/10000
+Average Loss : 0.128160 
+
+2, 30000/60000, success : 9403/10000
+Average Loss : 0.124336 
+
+2, 40000/60000, success : 9396/10000
+Average Loss : 0.121789 
+
+2, 50000/60000, success : 9379/10000
+Average Loss : 0.126780 
+
+2, 60000/60000, success : 9527/10000
+Average Loss : 0.100275 
+
+
+0.940633
+
+
+
+3, 10000/60000, success : 9497/10000
+Average Loss : 0.105017 
+
+3, 20000/60000, success : 9513/10000
+Average Loss : 0.101605 
+
+3, 30000/60000, success : 9502/10000
+Average Loss : 0.102493 
+
+3, 40000/60000, success : 9506/10000
+Average Loss : 0.105112 
+
+3, 50000/60000, success : 9498/10000
+Average Loss : 0.106284 
+
+3, 60000/60000, success : 9603/10000
+Average Loss : 0.084248 
+
+
+0.951983
+
+
+
+4, 10000/60000, success : 9560/10000
+Average Loss : 0.093472 
+
+4, 20000/60000, success : 9585/10000
+Average Loss : 0.088713 
+
+4, 30000/60000, success : 9566/10000
+Average Loss : 0.091057 
+
+4, 40000/60000, success : 9558/10000
+Average Loss : 0.092780 
+
+4, 50000/60000, success : 9549/10000
+Average Loss : 0.096039 
+
+4, 60000/60000, success : 9633/10000
+Average Loss : 0.077117 
+
+
+0.957517
+
+
+
+5, 10000/60000, success : 9611/10000
+Average Loss : 0.082072 
+
+5, 20000/60000, success : 9621/10000
+Average Loss : 0.079080 
+
+5, 30000/60000, success : 9617/10000
+Average Loss : 0.081364 
+
+5, 40000/60000, success : 9620/10000
+Average Loss : 0.082506 
+
+5, 50000/60000, success : 9591/10000
+Average Loss : 0.086273 
+
+5, 60000/60000, success : 9662/10000
+Average Loss : 0.071560 
+
+
+0.962033
+
+
+
+6, 10000/60000, success : 9648/10000
+Average Loss : 0.075886 
+
+6, 20000/60000, success : 9661/10000
+Average Loss : 0.072108 
+
+6, 30000/60000, success : 9651/10000
+Average Loss : 0.075401 
+
+6, 40000/60000, success : 9641/10000
+Average Loss : 0.077678 
+
+6, 50000/60000, success : 9617/10000
+Average Loss : 0.081781 
+
+6, 60000/60000, success : 9703/10000
+Average Loss : 0.064552 
+
+
+0.965350
+
+
+
+7, 10000/60000, success : 9694/10000
+Average Loss : 0.067108 
+
+7, 20000/60000, success : 9702/10000
+Average Loss : 0.064449 
+
+7, 30000/60000, success : 9663/10000
+Average Loss : 0.071628 
+
+7, 40000/60000, success : 9673/10000
+Average Loss : 0.070466 
+
+7, 50000/60000, success : 9642/10000
+Average Loss : 0.076818 
+
+7, 60000/60000, success : 9711/10000
+Average Loss : 0.061683 
+
+
+0.968083
+
+
+
+8, 10000/60000, success : 9687/10000
+Average Loss : 0.066290 
+
+8, 20000/60000, success : 9721/10000
+Average Loss : 0.061657 
+
+8, 30000/60000, success : 9699/10000
+Average Loss : 0.065875 
+
+8, 40000/60000, success : 9682/10000
+Average Loss : 0.068389 
+
+8, 50000/60000, success : 9659/10000
+Average Loss : 0.072375 
+
+8, 60000/60000, success : 9744/10000
+Average Loss : 0.055119 
+
+
+0.969867
+
+
+
+9, 10000/60000, success : 9728/10000
+Average Loss : 0.060603 
+
+9, 20000/60000, success : 9733/10000
+Average Loss : 0.058208 
+
+9, 30000/60000, success : 9720/10000
+Average Loss : 0.061240 
+
+9, 40000/60000, success : 9716/10000
+Average Loss : 0.063649 
+
+9, 50000/60000, success : 9694/10000
+Average Loss : 0.067750 
+
+9, 60000/60000, success : 9755/10000
+Average Loss : 0.053717 
+
+
+0.972433
+
+
+
+10, 10000/60000, success : 9737/10000
+Average Loss : 0.058033 
+
+10, 20000/60000, success : 9749/10000
+Average Loss : 0.054897 
+
+10, 30000/60000, success : 9738/10000
+Average Loss : 0.058222 
+
+10, 40000/60000, success : 9717/10000
+Average Loss : 0.063517 
+
+10, 50000/60000, success : 9690/10000
+Average Loss : 0.065451 
+
+10, 60000/60000, success : 9767/10000
+Average Loss : 0.051793 
+
+
+0.973300
+
+
+
+Total test result : 0.964900
+
+Error rate : 0.035100
