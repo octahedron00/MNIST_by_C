@@ -1,0 +1,2074 @@
+
+70000 data is completely served, file closed
+
+Total traning time : 10
+
+
+1,  1000/60000, success : 133/1000
+Average Loss : 0.938877
+
+1,  2000/60000, success : 462/1000
+Average Loss : 0.774197
+
+1,  3000/60000, success : 747/1000
+Average Loss : 0.442756
+
+1,  4000/60000, success : 842/1000
+Average Loss : 0.331185
+
+1,  5000/60000, success : 856/1000
+Average Loss : 0.295445
+
+1,  6000/60000, success : 894/1000
+Average Loss : 0.236031
+
+1,  7000/60000, success : 900/1000
+Average Loss : 0.204146
+
+1,  8000/60000, success : 889/1000
+Average Loss : 0.234327
+
+1,  9000/60000, success : 884/1000
+Average Loss : 0.240311
+
+1, 10000/60000, success : 926/1000
+Average Loss : 0.174754
+
+1, 11000/60000, success : 926/1000
+Average Loss : 0.167511
+
+1, 12000/60000, success : 916/1000
+Average Loss : 0.188106
+
+1, 13000/60000, success : 905/1000
+Average Loss : 0.197242
+
+1, 14000/60000, success : 918/1000
+Average Loss : 0.166782
+
+1, 15000/60000, success : 910/1000
+Average Loss : 0.202145
+
+1, 16000/60000, success : 930/1000
+Average Loss : 0.160018
+
+1, 17000/60000, success : 935/1000
+Average Loss : 0.147233
+
+1, 18000/60000, success : 929/1000
+Average Loss : 0.159120
+
+1, 19000/60000, success : 964/1000
+Average Loss : 0.093012
+
+1, 20000/60000, success : 951/1000
+Average Loss : 0.113113
+
+1, 21000/60000, success : 931/1000
+Average Loss : 0.152836
+
+1, 22000/60000, success : 960/1000
+Average Loss : 0.101103
+
+1, 23000/60000, success : 934/1000
+Average Loss : 0.138840
+
+1, 24000/60000, success : 946/1000
+Average Loss : 0.112022
+
+1, 25000/60000, success : 947/1000
+Average Loss : 0.125464
+
+1, 26000/60000, success : 951/1000
+Average Loss : 0.101561
+
+1, 27000/60000, success : 947/1000
+Average Loss : 0.119186
+
+1, 28000/60000, success : 945/1000
+Average Loss : 0.116526
+
+1, 29000/60000, success : 953/1000
+Average Loss : 0.102419
+
+1, 30000/60000, success : 963/1000
+Average Loss : 0.095463
+
+1, 31000/60000, success : 954/1000
+Average Loss : 0.105941
+
+1, 32000/60000, success : 943/1000
+Average Loss : 0.122408
+
+1, 33000/60000, success : 957/1000
+Average Loss : 0.102634
+
+1, 34000/60000, success : 966/1000
+Average Loss : 0.078168
+
+1, 35000/60000, success : 951/1000
+Average Loss : 0.108066
+
+1, 36000/60000, success : 967/1000
+Average Loss : 0.083402
+
+1, 37000/60000, success : 959/1000
+Average Loss : 0.092888
+
+1, 38000/60000, success : 943/1000
+Average Loss : 0.114818
+
+1, 39000/60000, success : 967/1000
+Average Loss : 0.079633
+
+1, 40000/60000, success : 957/1000
+Average Loss : 0.095523
+
+1, 41000/60000, success : 968/1000
+Average Loss : 0.076671
+
+1, 42000/60000, success : 954/1000
+Average Loss : 0.102076
+
+1, 43000/60000, success : 957/1000
+Average Loss : 0.100285
+
+1, 44000/60000, success : 959/1000
+Average Loss : 0.090286
+
+1, 45000/60000, success : 967/1000
+Average Loss : 0.083708
+
+1, 46000/60000, success : 951/1000
+Average Loss : 0.105137
+
+1, 47000/60000, success : 954/1000
+Average Loss : 0.100520
+
+1, 48000/60000, success : 946/1000
+Average Loss : 0.107144
+
+1, 49000/60000, success : 967/1000
+Average Loss : 0.077299
+
+1, 50000/60000, success : 942/1000
+Average Loss : 0.114691
+
+1, 51000/60000, success : 960/1000
+Average Loss : 0.092864
+
+1, 52000/60000, success : 970/1000
+Average Loss : 0.068702
+
+1, 53000/60000, success : 965/1000
+Average Loss : 0.088803
+
+1, 54000/60000, success : 965/1000
+Average Loss : 0.079130
+
+1, 55000/60000, success : 975/1000
+Average Loss : 0.065225
+
+1, 56000/60000, success : 971/1000
+Average Loss : 0.064092
+
+1, 57000/60000, success : 967/1000
+Average Loss : 0.067996
+
+1, 58000/60000, success : 975/1000
+Average Loss : 0.063889
+
+1, 59000/60000, success : 987/1000
+Average Loss : 0.032257
+
+1, 60000/60000, success : 976/1000
+Average Loss : 0.052663
+
+0.918900
+
+
+
+1 test result : 0.966000
+
+Error rate : 0.034000
+
+
+
+
+2,  1000/60000, success : 958/1000
+Average Loss : 0.086689
+
+2,  2000/60000, success : 963/1000
+Average Loss : 0.077828
+
+2,  3000/60000, success : 974/1000
+Average Loss : 0.064861
+
+2,  4000/60000, success : 981/1000
+Average Loss : 0.052791
+
+2,  5000/60000, success : 965/1000
+Average Loss : 0.076542
+
+2,  6000/60000, success : 970/1000
+Average Loss : 0.068242
+
+2,  7000/60000, success : 979/1000
+Average Loss : 0.058472
+
+2,  8000/60000, success : 965/1000
+Average Loss : 0.085554
+
+2,  9000/60000, success : 955/1000
+Average Loss : 0.096989
+
+2, 10000/60000, success : 976/1000
+Average Loss : 0.060829
+
+2, 11000/60000, success : 974/1000
+Average Loss : 0.061019
+
+2, 12000/60000, success : 972/1000
+Average Loss : 0.069568
+
+2, 13000/60000, success : 972/1000
+Average Loss : 0.062349
+
+2, 14000/60000, success : 974/1000
+Average Loss : 0.059470
+
+2, 15000/60000, success : 968/1000
+Average Loss : 0.080208
+
+2, 16000/60000, success : 962/1000
+Average Loss : 0.087679
+
+2, 17000/60000, success : 973/1000
+Average Loss : 0.066785
+
+2, 18000/60000, success : 966/1000
+Average Loss : 0.077752
+
+2, 19000/60000, success : 979/1000
+Average Loss : 0.047502
+
+2, 20000/60000, success : 980/1000
+Average Loss : 0.048993
+
+2, 21000/60000, success : 972/1000
+Average Loss : 0.070731
+
+2, 22000/60000, success : 982/1000
+Average Loss : 0.046157
+
+2, 23000/60000, success : 979/1000
+Average Loss : 0.052640
+
+2, 24000/60000, success : 974/1000
+Average Loss : 0.055770
+
+2, 25000/60000, success : 966/1000
+Average Loss : 0.070043
+
+2, 26000/60000, success : 971/1000
+Average Loss : 0.061495
+
+2, 27000/60000, success : 970/1000
+Average Loss : 0.069284
+
+2, 28000/60000, success : 974/1000
+Average Loss : 0.061748
+
+2, 29000/60000, success : 967/1000
+Average Loss : 0.067710
+
+2, 30000/60000, success : 975/1000
+Average Loss : 0.059926
+
+2, 31000/60000, success : 974/1000
+Average Loss : 0.057882
+
+2, 32000/60000, success : 966/1000
+Average Loss : 0.071927
+
+2, 33000/60000, success : 975/1000
+Average Loss : 0.064376
+
+2, 34000/60000, success : 979/1000
+Average Loss : 0.048919
+
+2, 35000/60000, success : 968/1000
+Average Loss : 0.070697
+
+2, 36000/60000, success : 981/1000
+Average Loss : 0.049904
+
+2, 37000/60000, success : 975/1000
+Average Loss : 0.059809
+
+2, 38000/60000, success : 971/1000
+Average Loss : 0.069948
+
+2, 39000/60000, success : 979/1000
+Average Loss : 0.050250
+
+2, 40000/60000, success : 973/1000
+Average Loss : 0.061013
+
+2, 41000/60000, success : 980/1000
+Average Loss : 0.050109
+
+2, 42000/60000, success : 970/1000
+Average Loss : 0.070637
+
+2, 43000/60000, success : 972/1000
+Average Loss : 0.064511
+
+2, 44000/60000, success : 980/1000
+Average Loss : 0.056215
+
+2, 45000/60000, success : 980/1000
+Average Loss : 0.050247
+
+2, 46000/60000, success : 973/1000
+Average Loss : 0.069177
+
+2, 47000/60000, success : 972/1000
+Average Loss : 0.060970
+
+2, 48000/60000, success : 967/1000
+Average Loss : 0.072931
+
+2, 49000/60000, success : 979/1000
+Average Loss : 0.053952
+
+2, 50000/60000, success : 971/1000
+Average Loss : 0.077127
+
+2, 51000/60000, success : 967/1000
+Average Loss : 0.067623
+
+2, 52000/60000, success : 977/1000
+Average Loss : 0.049619
+
+2, 53000/60000, success : 969/1000
+Average Loss : 0.068256
+
+2, 54000/60000, success : 971/1000
+Average Loss : 0.060723
+
+2, 55000/60000, success : 975/1000
+Average Loss : 0.052998
+
+2, 56000/60000, success : 976/1000
+Average Loss : 0.052876
+
+2, 57000/60000, success : 979/1000
+Average Loss : 0.045215
+
+2, 58000/60000, success : 980/1000
+Average Loss : 0.040999
+
+2, 59000/60000, success : 990/1000
+Average Loss : 0.026644
+
+2, 60000/60000, success : 985/1000
+Average Loss : 0.037561
+
+0.973167
+
+
+
+2 test result : 0.977900
+
+Error rate : 0.022100
+
+
+
+
+3,  1000/60000, success : 974/1000
+Average Loss : 0.064068
+
+3,  2000/60000, success : 974/1000
+Average Loss : 0.061918
+
+3,  3000/60000, success : 977/1000
+Average Loss : 0.052310
+
+3,  4000/60000, success : 982/1000
+Average Loss : 0.043498
+
+3,  5000/60000, success : 974/1000
+Average Loss : 0.059289
+
+3,  6000/60000, success : 976/1000
+Average Loss : 0.052695
+
+3,  7000/60000, success : 984/1000
+Average Loss : 0.046076
+
+3,  8000/60000, success : 968/1000
+Average Loss : 0.063719
+
+3,  9000/60000, success : 965/1000
+Average Loss : 0.071261
+
+3, 10000/60000, success : 987/1000
+Average Loss : 0.038713
+
+3, 11000/60000, success : 975/1000
+Average Loss : 0.054607
+
+3, 12000/60000, success : 979/1000
+Average Loss : 0.050432
+
+3, 13000/60000, success : 983/1000
+Average Loss : 0.041389
+
+3, 14000/60000, success : 980/1000
+Average Loss : 0.046306
+
+3, 15000/60000, success : 978/1000
+Average Loss : 0.058969
+
+3, 16000/60000, success : 971/1000
+Average Loss : 0.062026
+
+3, 17000/60000, success : 980/1000
+Average Loss : 0.053358
+
+3, 18000/60000, success : 977/1000
+Average Loss : 0.058266
+
+3, 19000/60000, success : 986/1000
+Average Loss : 0.038779
+
+3, 20000/60000, success : 983/1000
+Average Loss : 0.041971
+
+3, 21000/60000, success : 978/1000
+Average Loss : 0.052440
+
+3, 22000/60000, success : 986/1000
+Average Loss : 0.036190
+
+3, 23000/60000, success : 989/1000
+Average Loss : 0.033785
+
+3, 24000/60000, success : 982/1000
+Average Loss : 0.042421
+
+3, 25000/60000, success : 977/1000
+Average Loss : 0.053004
+
+3, 26000/60000, success : 983/1000
+Average Loss : 0.046600
+
+3, 27000/60000, success : 978/1000
+Average Loss : 0.056662
+
+3, 28000/60000, success : 979/1000
+Average Loss : 0.044149
+
+3, 29000/60000, success : 981/1000
+Average Loss : 0.044830
+
+3, 30000/60000, success : 979/1000
+Average Loss : 0.044910
+
+3, 31000/60000, success : 979/1000
+Average Loss : 0.042965
+
+3, 32000/60000, success : 976/1000
+Average Loss : 0.057547
+
+3, 33000/60000, success : 977/1000
+Average Loss : 0.052987
+
+3, 34000/60000, success : 982/1000
+Average Loss : 0.038101
+
+3, 35000/60000, success : 974/1000
+Average Loss : 0.055331
+
+3, 36000/60000, success : 981/1000
+Average Loss : 0.047006
+
+3, 37000/60000, success : 981/1000
+Average Loss : 0.044479
+
+3, 38000/60000, success : 975/1000
+Average Loss : 0.058454
+
+3, 39000/60000, success : 982/1000
+Average Loss : 0.043303
+
+3, 40000/60000, success : 974/1000
+Average Loss : 0.051149
+
+3, 41000/60000, success : 983/1000
+Average Loss : 0.039835
+
+3, 42000/60000, success : 974/1000
+Average Loss : 0.059516
+
+3, 43000/60000, success : 979/1000
+Average Loss : 0.047670
+
+3, 44000/60000, success : 983/1000
+Average Loss : 0.042404
+
+3, 45000/60000, success : 982/1000
+Average Loss : 0.043078
+
+3, 46000/60000, success : 979/1000
+Average Loss : 0.051330
+
+3, 47000/60000, success : 977/1000
+Average Loss : 0.050165
+
+3, 48000/60000, success : 967/1000
+Average Loss : 0.068452
+
+3, 49000/60000, success : 984/1000
+Average Loss : 0.044659
+
+3, 50000/60000, success : 969/1000
+Average Loss : 0.068490
+
+3, 51000/60000, success : 973/1000
+Average Loss : 0.053272
+
+3, 52000/60000, success : 981/1000
+Average Loss : 0.041186
+
+3, 53000/60000, success : 977/1000
+Average Loss : 0.054607
+
+3, 54000/60000, success : 974/1000
+Average Loss : 0.051352
+
+3, 55000/60000, success : 979/1000
+Average Loss : 0.041950
+
+3, 56000/60000, success : 982/1000
+Average Loss : 0.041660
+
+3, 57000/60000, success : 984/1000
+Average Loss : 0.039195
+
+3, 58000/60000, success : 986/1000
+Average Loss : 0.031156
+
+3, 59000/60000, success : 991/1000
+Average Loss : 0.020983
+
+3, 60000/60000, success : 987/1000
+Average Loss : 0.030119
+
+0.978950
+
+
+
+3 test result : 0.980700
+
+Error rate : 0.019300
+
+
+
+
+4,  1000/60000, success : 981/1000
+Average Loss : 0.048743
+
+4,  2000/60000, success : 974/1000
+Average Loss : 0.055259
+
+4,  3000/60000, success : 980/1000
+Average Loss : 0.041289
+
+4,  4000/60000, success : 986/1000
+Average Loss : 0.033423
+
+4,  5000/60000, success : 976/1000
+Average Loss : 0.052806
+
+4,  6000/60000, success : 977/1000
+Average Loss : 0.050866
+
+4,  7000/60000, success : 985/1000
+Average Loss : 0.038299
+
+4,  8000/60000, success : 978/1000
+Average Loss : 0.050618
+
+4,  9000/60000, success : 972/1000
+Average Loss : 0.062703
+
+4, 10000/60000, success : 985/1000
+Average Loss : 0.031471
+
+4, 11000/60000, success : 981/1000
+Average Loss : 0.044640
+
+4, 12000/60000, success : 984/1000
+Average Loss : 0.040600
+
+4, 13000/60000, success : 983/1000
+Average Loss : 0.037802
+
+4, 14000/60000, success : 983/1000
+Average Loss : 0.039393
+
+4, 15000/60000, success : 974/1000
+Average Loss : 0.054530
+
+4, 16000/60000, success : 975/1000
+Average Loss : 0.050784
+
+4, 17000/60000, success : 981/1000
+Average Loss : 0.044656
+
+4, 18000/60000, success : 974/1000
+Average Loss : 0.052352
+
+4, 19000/60000, success : 987/1000
+Average Loss : 0.030946
+
+4, 20000/60000, success : 989/1000
+Average Loss : 0.028243
+
+4, 21000/60000, success : 980/1000
+Average Loss : 0.045371
+
+4, 22000/60000, success : 989/1000
+Average Loss : 0.030163
+
+4, 23000/60000, success : 992/1000
+Average Loss : 0.024515
+
+4, 24000/60000, success : 983/1000
+Average Loss : 0.035725
+
+4, 25000/60000, success : 983/1000
+Average Loss : 0.041674
+
+4, 26000/60000, success : 981/1000
+Average Loss : 0.042577
+
+4, 27000/60000, success : 981/1000
+Average Loss : 0.048495
+
+4, 28000/60000, success : 984/1000
+Average Loss : 0.036487
+
+4, 29000/60000, success : 981/1000
+Average Loss : 0.041224
+
+4, 30000/60000, success : 982/1000
+Average Loss : 0.035475
+
+4, 31000/60000, success : 985/1000
+Average Loss : 0.035825
+
+4, 32000/60000, success : 975/1000
+Average Loss : 0.055417
+
+4, 33000/60000, success : 979/1000
+Average Loss : 0.044745
+
+4, 34000/60000, success : 988/1000
+Average Loss : 0.029359
+
+4, 35000/60000, success : 982/1000
+Average Loss : 0.042330
+
+4, 36000/60000, success : 982/1000
+Average Loss : 0.041491
+
+4, 37000/60000, success : 981/1000
+Average Loss : 0.045025
+
+4, 38000/60000, success : 981/1000
+Average Loss : 0.049039
+
+4, 39000/60000, success : 983/1000
+Average Loss : 0.039060
+
+4, 40000/60000, success : 980/1000
+Average Loss : 0.043230
+
+4, 41000/60000, success : 984/1000
+Average Loss : 0.034402
+
+4, 42000/60000, success : 977/1000
+Average Loss : 0.053037
+
+4, 43000/60000, success : 980/1000
+Average Loss : 0.041914
+
+4, 44000/60000, success : 986/1000
+Average Loss : 0.036410
+
+4, 45000/60000, success : 980/1000
+Average Loss : 0.040515
+
+4, 46000/60000, success : 983/1000
+Average Loss : 0.043261
+
+4, 47000/60000, success : 986/1000
+Average Loss : 0.034740
+
+4, 48000/60000, success : 975/1000
+Average Loss : 0.055722
+
+4, 49000/60000, success : 985/1000
+Average Loss : 0.033744
+
+4, 50000/60000, success : 971/1000
+Average Loss : 0.062377
+
+4, 51000/60000, success : 986/1000
+Average Loss : 0.041029
+
+4, 52000/60000, success : 988/1000
+Average Loss : 0.032088
+
+4, 53000/60000, success : 978/1000
+Average Loss : 0.049723
+
+4, 54000/60000, success : 980/1000
+Average Loss : 0.043813
+
+4, 55000/60000, success : 984/1000
+Average Loss : 0.038459
+
+4, 56000/60000, success : 986/1000
+Average Loss : 0.036797
+
+4, 57000/60000, success : 987/1000
+Average Loss : 0.031165
+
+4, 58000/60000, success : 985/1000
+Average Loss : 0.027108
+
+4, 59000/60000, success : 992/1000
+Average Loss : 0.018149
+
+4, 60000/60000, success : 989/1000
+Average Loss : 0.027933
+
+0.981983
+
+
+
+4 test result : 0.982500
+
+Error rate : 0.017500
+
+
+
+
+5,  1000/60000, success : 979/1000
+Average Loss : 0.044693
+
+5,  2000/60000, success : 979/1000
+Average Loss : 0.050412
+
+5,  3000/60000, success : 983/1000
+Average Loss : 0.040167
+
+5,  4000/60000, success : 987/1000
+Average Loss : 0.030220
+
+5,  5000/60000, success : 983/1000
+Average Loss : 0.039398
+
+5,  6000/60000, success : 985/1000
+Average Loss : 0.036483
+
+5,  7000/60000, success : 985/1000
+Average Loss : 0.033175
+
+5,  8000/60000, success : 978/1000
+Average Loss : 0.043139
+
+5,  9000/60000, success : 976/1000
+Average Loss : 0.052819
+
+5, 10000/60000, success : 987/1000
+Average Loss : 0.029517
+
+5, 11000/60000, success : 982/1000
+Average Loss : 0.040623
+
+5, 12000/60000, success : 988/1000
+Average Loss : 0.032187
+
+5, 13000/60000, success : 990/1000
+Average Loss : 0.029709
+
+5, 14000/60000, success : 990/1000
+Average Loss : 0.033429
+
+5, 15000/60000, success : 979/1000
+Average Loss : 0.047826
+
+5, 16000/60000, success : 979/1000
+Average Loss : 0.041570
+
+5, 17000/60000, success : 984/1000
+Average Loss : 0.038784
+
+5, 18000/60000, success : 983/1000
+Average Loss : 0.044993
+
+5, 19000/60000, success : 986/1000
+Average Loss : 0.028959
+
+5, 20000/60000, success : 986/1000
+Average Loss : 0.027676
+
+5, 21000/60000, success : 984/1000
+Average Loss : 0.040130
+
+5, 22000/60000, success : 992/1000
+Average Loss : 0.026580
+
+5, 23000/60000, success : 993/1000
+Average Loss : 0.021651
+
+5, 24000/60000, success : 980/1000
+Average Loss : 0.037485
+
+5, 25000/60000, success : 983/1000
+Average Loss : 0.039131
+
+5, 26000/60000, success : 985/1000
+Average Loss : 0.036800
+
+5, 27000/60000, success : 982/1000
+Average Loss : 0.042474
+
+5, 28000/60000, success : 985/1000
+Average Loss : 0.037020
+
+5, 29000/60000, success : 989/1000
+Average Loss : 0.031923
+
+5, 30000/60000, success : 986/1000
+Average Loss : 0.028004
+
+5, 31000/60000, success : 983/1000
+Average Loss : 0.032732
+
+5, 32000/60000, success : 981/1000
+Average Loss : 0.048928
+
+5, 33000/60000, success : 982/1000
+Average Loss : 0.043562
+
+5, 34000/60000, success : 990/1000
+Average Loss : 0.028055
+
+5, 35000/60000, success : 982/1000
+Average Loss : 0.041699
+
+5, 36000/60000, success : 987/1000
+Average Loss : 0.036630
+
+5, 37000/60000, success : 981/1000
+Average Loss : 0.040843
+
+5, 38000/60000, success : 982/1000
+Average Loss : 0.042406
+
+5, 39000/60000, success : 986/1000
+Average Loss : 0.034633
+
+5, 40000/60000, success : 981/1000
+Average Loss : 0.044762
+
+5, 41000/60000, success : 985/1000
+Average Loss : 0.032307
+
+5, 42000/60000, success : 978/1000
+Average Loss : 0.047782
+
+5, 43000/60000, success : 982/1000
+Average Loss : 0.037843
+
+5, 44000/60000, success : 988/1000
+Average Loss : 0.031941
+
+5, 45000/60000, success : 983/1000
+Average Loss : 0.036286
+
+5, 46000/60000, success : 984/1000
+Average Loss : 0.037370
+
+5, 47000/60000, success : 987/1000
+Average Loss : 0.031045
+
+5, 48000/60000, success : 976/1000
+Average Loss : 0.058057
+
+5, 49000/60000, success : 989/1000
+Average Loss : 0.028186
+
+5, 50000/60000, success : 978/1000
+Average Loss : 0.046461
+
+5, 51000/60000, success : 984/1000
+Average Loss : 0.034031
+
+5, 52000/60000, success : 987/1000
+Average Loss : 0.031893
+
+5, 53000/60000, success : 984/1000
+Average Loss : 0.042950
+
+5, 54000/60000, success : 983/1000
+Average Loss : 0.039622
+
+5, 55000/60000, success : 986/1000
+Average Loss : 0.036767
+
+5, 56000/60000, success : 989/1000
+Average Loss : 0.029213
+
+5, 57000/60000, success : 990/1000
+Average Loss : 0.025830
+
+5, 58000/60000, success : 991/1000
+Average Loss : 0.022931
+
+5, 59000/60000, success : 994/1000
+Average Loss : 0.015868
+
+5, 60000/60000, success : 990/1000
+Average Loss : 0.027355
+
+0.984517
+
+
+
+5 test result : 0.983100
+
+Error rate : 0.016900
+
+
+
+
+6,  1000/60000, success : 985/1000
+Average Loss : 0.038228
+
+6,  2000/60000, success : 982/1000
+Average Loss : 0.040149
+
+6,  3000/60000, success : 982/1000
+Average Loss : 0.037831
+
+6,  4000/60000, success : 988/1000
+Average Loss : 0.027318
+
+6,  5000/60000, success : 983/1000
+Average Loss : 0.034850
+
+6,  6000/60000, success : 988/1000
+Average Loss : 0.033740
+
+6,  7000/60000, success : 989/1000
+Average Loss : 0.025841
+
+6,  8000/60000, success : 983/1000
+Average Loss : 0.039916
+
+6,  9000/60000, success : 973/1000
+Average Loss : 0.050053
+
+6, 10000/60000, success : 990/1000
+Average Loss : 0.023297
+
+6, 11000/60000, success : 984/1000
+Average Loss : 0.032319
+
+6, 12000/60000, success : 988/1000
+Average Loss : 0.028494
+
+6, 13000/60000, success : 990/1000
+Average Loss : 0.027143
+
+6, 14000/60000, success : 990/1000
+Average Loss : 0.025872
+
+6, 15000/60000, success : 986/1000
+Average Loss : 0.039218
+
+6, 16000/60000, success : 983/1000
+Average Loss : 0.038174
+
+6, 17000/60000, success : 982/1000
+Average Loss : 0.037234
+
+6, 18000/60000, success : 980/1000
+Average Loss : 0.040171
+
+6, 19000/60000, success : 991/1000
+Average Loss : 0.021567
+
+6, 20000/60000, success : 994/1000
+Average Loss : 0.020826
+
+6, 21000/60000, success : 987/1000
+Average Loss : 0.035249
+
+6, 22000/60000, success : 993/1000
+Average Loss : 0.021272
+
+6, 23000/60000, success : 993/1000
+Average Loss : 0.019954
+
+6, 24000/60000, success : 988/1000
+Average Loss : 0.030199
+
+6, 25000/60000, success : 984/1000
+Average Loss : 0.032974
+
+6, 26000/60000, success : 986/1000
+Average Loss : 0.033933
+
+6, 27000/60000, success : 985/1000
+Average Loss : 0.036535
+
+6, 28000/60000, success : 989/1000
+Average Loss : 0.028011
+
+6, 29000/60000, success : 987/1000
+Average Loss : 0.030248
+
+6, 30000/60000, success : 987/1000
+Average Loss : 0.027762
+
+6, 31000/60000, success : 989/1000
+Average Loss : 0.027064
+
+6, 32000/60000, success : 976/1000
+Average Loss : 0.052522
+
+6, 33000/60000, success : 982/1000
+Average Loss : 0.038781
+
+6, 34000/60000, success : 989/1000
+Average Loss : 0.027319
+
+6, 35000/60000, success : 980/1000
+Average Loss : 0.042381
+
+6, 36000/60000, success : 987/1000
+Average Loss : 0.033476
+
+6, 37000/60000, success : 985/1000
+Average Loss : 0.032533
+
+6, 38000/60000, success : 981/1000
+Average Loss : 0.042515
+
+6, 39000/60000, success : 987/1000
+Average Loss : 0.031290
+
+6, 40000/60000, success : 983/1000
+Average Loss : 0.040176
+
+6, 41000/60000, success : 987/1000
+Average Loss : 0.029641
+
+6, 42000/60000, success : 980/1000
+Average Loss : 0.042901
+
+6, 43000/60000, success : 983/1000
+Average Loss : 0.033945
+
+6, 44000/60000, success : 987/1000
+Average Loss : 0.030563
+
+6, 45000/60000, success : 987/1000
+Average Loss : 0.034023
+
+6, 46000/60000, success : 986/1000
+Average Loss : 0.035422
+
+6, 47000/60000, success : 988/1000
+Average Loss : 0.029723
+
+6, 48000/60000, success : 979/1000
+Average Loss : 0.048308
+
+6, 49000/60000, success : 992/1000
+Average Loss : 0.025383
+
+6, 50000/60000, success : 983/1000
+Average Loss : 0.044973
+
+6, 51000/60000, success : 988/1000
+Average Loss : 0.030804
+
+6, 52000/60000, success : 991/1000
+Average Loss : 0.024359
+
+6, 53000/60000, success : 986/1000
+Average Loss : 0.038725
+
+6, 54000/60000, success : 989/1000
+Average Loss : 0.035991
+
+6, 55000/60000, success : 985/1000
+Average Loss : 0.035569
+
+6, 56000/60000, success : 990/1000
+Average Loss : 0.024008
+
+6, 57000/60000, success : 989/1000
+Average Loss : 0.028151
+
+6, 58000/60000, success : 990/1000
+Average Loss : 0.021778
+
+6, 59000/60000, success : 994/1000
+Average Loss : 0.015245
+
+6, 60000/60000, success : 986/1000
+Average Loss : 0.031120
+
+0.986150
+
+
+
+6 test result : 0.983100
+
+Error rate : 0.016900
+
+
+
+
+7,  1000/60000, success : 985/1000
+Average Loss : 0.040785
+
+7,  2000/60000, success : 986/1000
+Average Loss : 0.037219
+
+7,  3000/60000, success : 983/1000
+Average Loss : 0.034063
+
+7,  4000/60000, success : 992/1000
+Average Loss : 0.023861
+
+7,  5000/60000, success : 988/1000
+Average Loss : 0.027337
+
+7,  6000/60000, success : 986/1000
+Average Loss : 0.033705
+
+7,  7000/60000, success : 988/1000
+Average Loss : 0.028320
+
+7,  8000/60000, success : 983/1000
+Average Loss : 0.037687
+
+7,  9000/60000, success : 977/1000
+Average Loss : 0.049306
+
+7, 10000/60000, success : 991/1000
+Average Loss : 0.020936
+
+7, 11000/60000, success : 984/1000
+Average Loss : 0.033343
+
+7, 12000/60000, success : 985/1000
+Average Loss : 0.032021
+
+7, 13000/60000, success : 989/1000
+Average Loss : 0.024968
+
+7, 14000/60000, success : 992/1000
+Average Loss : 0.025060
+
+7, 15000/60000, success : 982/1000
+Average Loss : 0.040411
+
+7, 16000/60000, success : 982/1000
+Average Loss : 0.038354
+
+7, 17000/60000, success : 989/1000
+Average Loss : 0.030604
+
+7, 18000/60000, success : 985/1000
+Average Loss : 0.034704
+
+7, 19000/60000, success : 989/1000
+Average Loss : 0.023215
+
+7, 20000/60000, success : 991/1000
+Average Loss : 0.023734
+
+7, 21000/60000, success : 988/1000
+Average Loss : 0.033786
+
+7, 22000/60000, success : 993/1000
+Average Loss : 0.021097
+
+7, 23000/60000, success : 994/1000
+Average Loss : 0.019075
+
+7, 24000/60000, success : 989/1000
+Average Loss : 0.028368
+
+7, 25000/60000, success : 987/1000
+Average Loss : 0.033850
+
+7, 26000/60000, success : 988/1000
+Average Loss : 0.030723
+
+7, 27000/60000, success : 985/1000
+Average Loss : 0.036522
+
+7, 28000/60000, success : 992/1000
+Average Loss : 0.024707
+
+7, 29000/60000, success : 990/1000
+Average Loss : 0.026542
+
+7, 30000/60000, success : 991/1000
+Average Loss : 0.023343
+
+7, 31000/60000, success : 990/1000
+Average Loss : 0.024385
+
+7, 32000/60000, success : 982/1000
+Average Loss : 0.044252
+
+7, 33000/60000, success : 982/1000
+Average Loss : 0.041815
+
+7, 34000/60000, success : 989/1000
+Average Loss : 0.026205
+
+7, 35000/60000, success : 984/1000
+Average Loss : 0.036208
+
+7, 36000/60000, success : 987/1000
+Average Loss : 0.032067
+
+7, 37000/60000, success : 988/1000
+Average Loss : 0.028625
+
+7, 38000/60000, success : 983/1000
+Average Loss : 0.040785
+
+7, 39000/60000, success : 986/1000
+Average Loss : 0.031443
+
+7, 40000/60000, success : 982/1000
+Average Loss : 0.039222
+
+7, 41000/60000, success : 986/1000
+Average Loss : 0.031645
+
+7, 42000/60000, success : 982/1000
+Average Loss : 0.038547
+
+7, 43000/60000, success : 986/1000
+Average Loss : 0.032310
+
+7, 44000/60000, success : 991/1000
+Average Loss : 0.028148
+
+7, 45000/60000, success : 988/1000
+Average Loss : 0.029956
+
+7, 46000/60000, success : 987/1000
+Average Loss : 0.032984
+
+7, 47000/60000, success : 993/1000
+Average Loss : 0.023710
+
+7, 48000/60000, success : 982/1000
+Average Loss : 0.045574
+
+7, 49000/60000, success : 989/1000
+Average Loss : 0.024156
+
+7, 50000/60000, success : 985/1000
+Average Loss : 0.040066
+
+7, 51000/60000, success : 984/1000
+Average Loss : 0.033200
+
+7, 52000/60000, success : 990/1000
+Average Loss : 0.024814
+
+7, 53000/60000, success : 982/1000
+Average Loss : 0.036790
+
+7, 54000/60000, success : 986/1000
+Average Loss : 0.034722
+
+7, 55000/60000, success : 984/1000
+Average Loss : 0.032485
+
+7, 56000/60000, success : 989/1000
+Average Loss : 0.025073
+
+7, 57000/60000, success : 992/1000
+Average Loss : 0.023803
+
+7, 58000/60000, success : 992/1000
+Average Loss : 0.020296
+
+7, 59000/60000, success : 995/1000
+Average Loss : 0.014104
+
+7, 60000/60000, success : 988/1000
+Average Loss : 0.025322
+
+0.987133
+
+
+
+7 test result : 0.984800
+
+Error rate : 0.015200
+
+
+
+
+8,  1000/60000, success : 985/1000
+Average Loss : 0.035797
+
+8,  2000/60000, success : 987/1000
+Average Loss : 0.032771
+
+8,  3000/60000, success : 983/1000
+Average Loss : 0.032185
+
+8,  4000/60000, success : 994/1000
+Average Loss : 0.018604
+
+8,  5000/60000, success : 986/1000
+Average Loss : 0.026820
+
+8,  6000/60000, success : 989/1000
+Average Loss : 0.028505
+
+8,  7000/60000, success : 990/1000
+Average Loss : 0.024496
+
+8,  8000/60000, success : 984/1000
+Average Loss : 0.034174
+
+8,  9000/60000, success : 983/1000
+Average Loss : 0.041921
+
+8, 10000/60000, success : 993/1000
+Average Loss : 0.019302
+
+8, 11000/60000, success : 987/1000
+Average Loss : 0.031369
+
+8, 12000/60000, success : 991/1000
+Average Loss : 0.024179
+
+8, 13000/60000, success : 993/1000
+Average Loss : 0.018086
+
+8, 14000/60000, success : 991/1000
+Average Loss : 0.025367
+
+8, 15000/60000, success : 988/1000
+Average Loss : 0.030449
+
+8, 16000/60000, success : 988/1000
+Average Loss : 0.030712
+
+8, 17000/60000, success : 984/1000
+Average Loss : 0.035007
+
+8, 18000/60000, success : 986/1000
+Average Loss : 0.032748
+
+8, 19000/60000, success : 991/1000
+Average Loss : 0.023526
+
+8, 20000/60000, success : 989/1000
+Average Loss : 0.021620
+
+8, 21000/60000, success : 983/1000
+Average Loss : 0.035059
+
+8, 22000/60000, success : 992/1000
+Average Loss : 0.022448
+
+8, 23000/60000, success : 995/1000
+Average Loss : 0.015569
+
+8, 24000/60000, success : 989/1000
+Average Loss : 0.026096
+
+8, 25000/60000, success : 986/1000
+Average Loss : 0.029265
+
+8, 26000/60000, success : 987/1000
+Average Loss : 0.030392
+
+8, 27000/60000, success : 987/1000
+Average Loss : 0.030991
+
+8, 28000/60000, success : 990/1000
+Average Loss : 0.021777
+
+8, 29000/60000, success : 989/1000
+Average Loss : 0.025969
+
+8, 30000/60000, success : 992/1000
+Average Loss : 0.021159
+
+8, 31000/60000, success : 989/1000
+Average Loss : 0.023652
+
+8, 32000/60000, success : 984/1000
+Average Loss : 0.043473
+
+8, 33000/60000, success : 987/1000
+Average Loss : 0.033600
+
+8, 34000/60000, success : 991/1000
+Average Loss : 0.022956
+
+8, 35000/60000, success : 988/1000
+Average Loss : 0.032131
+
+8, 36000/60000, success : 988/1000
+Average Loss : 0.029969
+
+8, 37000/60000, success : 988/1000
+Average Loss : 0.027864
+
+8, 38000/60000, success : 985/1000
+Average Loss : 0.035385
+
+8, 39000/60000, success : 988/1000
+Average Loss : 0.029991
+
+8, 40000/60000, success : 984/1000
+Average Loss : 0.036686
+
+8, 41000/60000, success : 989/1000
+Average Loss : 0.024990
+
+8, 42000/60000, success : 982/1000
+Average Loss : 0.040710
+
+8, 43000/60000, success : 987/1000
+Average Loss : 0.029600
+
+8, 44000/60000, success : 989/1000
+Average Loss : 0.026723
+
+8, 45000/60000, success : 986/1000
+Average Loss : 0.030561
+
+8, 46000/60000, success : 990/1000
+Average Loss : 0.030148
+
+8, 47000/60000, success : 991/1000
+Average Loss : 0.025558
+
+8, 48000/60000, success : 980/1000
+Average Loss : 0.042431
+
+8, 49000/60000, success : 993/1000
+Average Loss : 0.019633
+
+8, 50000/60000, success : 988/1000
+Average Loss : 0.035309
+
+8, 51000/60000, success : 986/1000
+Average Loss : 0.029550
+
+8, 52000/60000, success : 994/1000
+Average Loss : 0.021016
+
+8, 53000/60000, success : 985/1000
+Average Loss : 0.035751
+
+8, 54000/60000, success : 987/1000
+Average Loss : 0.031288
+
+8, 55000/60000, success : 988/1000
+Average Loss : 0.029993
+
+8, 56000/60000, success : 991/1000
+Average Loss : 0.024436
+
+8, 57000/60000, success : 992/1000
+Average Loss : 0.023772
+
+8, 58000/60000, success : 993/1000
+Average Loss : 0.019361
+
+8, 59000/60000, success : 995/1000
+Average Loss : 0.012301
+
+8, 60000/60000, success : 992/1000
+Average Loss : 0.022531
+
+0.988367
+
+
+
+8 test result : 0.984400
+
+Error rate : 0.015600
+
+
+
+
+9,  1000/60000, success : 985/1000
+Average Loss : 0.032886
+
+9,  2000/60000, success : 987/1000
+Average Loss : 0.033453
+
+9,  3000/60000, success : 986/1000
+Average Loss : 0.030423
+
+9,  4000/60000, success : 994/1000
+Average Loss : 0.017857
+
+9,  5000/60000, success : 992/1000
+Average Loss : 0.022299
+
+9,  6000/60000, success : 990/1000
+Average Loss : 0.027600
+
+9,  7000/60000, success : 989/1000
+Average Loss : 0.024692
+
+9,  8000/60000, success : 988/1000
+Average Loss : 0.028174
+
+9,  9000/60000, success : 984/1000
+Average Loss : 0.037904
+
+9, 10000/60000, success : 992/1000
+Average Loss : 0.018987
+
+9, 11000/60000, success : 989/1000
+Average Loss : 0.027417
+
+9, 12000/60000, success : 991/1000
+Average Loss : 0.021154
+
+9, 13000/60000, success : 994/1000
+Average Loss : 0.015400
+
+9, 14000/60000, success : 991/1000
+Average Loss : 0.019361
+
+9, 15000/60000, success : 985/1000
+Average Loss : 0.032196
+
+9, 16000/60000, success : 986/1000
+Average Loss : 0.029989
+
+9, 17000/60000, success : 990/1000
+Average Loss : 0.022752
+
+9, 18000/60000, success : 985/1000
+Average Loss : 0.032623
+
+9, 19000/60000, success : 993/1000
+Average Loss : 0.016341
+
+9, 20000/60000, success : 990/1000
+Average Loss : 0.022222
+
+9, 21000/60000, success : 988/1000
+Average Loss : 0.026133
+
+9, 22000/60000, success : 993/1000
+Average Loss : 0.018797
+
+9, 23000/60000, success : 995/1000
+Average Loss : 0.014875
+
+9, 24000/60000, success : 991/1000
+Average Loss : 0.024359
+
+9, 25000/60000, success : 992/1000
+Average Loss : 0.023420
+
+9, 26000/60000, success : 991/1000
+Average Loss : 0.023986
+
+9, 27000/60000, success : 988/1000
+Average Loss : 0.029409
+
+9, 28000/60000, success : 991/1000
+Average Loss : 0.020175
+
+9, 29000/60000, success : 995/1000
+Average Loss : 0.018129
+
+9, 30000/60000, success : 996/1000
+Average Loss : 0.015789
+
+9, 31000/60000, success : 993/1000
+Average Loss : 0.019385
+
+9, 32000/60000, success : 986/1000
+Average Loss : 0.034639
+
+9, 33000/60000, success : 986/1000
+Average Loss : 0.029705
+
+9, 34000/60000, success : 994/1000
+Average Loss : 0.021516
+
+9, 35000/60000, success : 988/1000
+Average Loss : 0.031866
+
+9, 36000/60000, success : 989/1000
+Average Loss : 0.029510
+
+9, 37000/60000, success : 992/1000
+Average Loss : 0.026181
+
+9, 38000/60000, success : 988/1000
+Average Loss : 0.035155
+
+9, 39000/60000, success : 987/1000
+Average Loss : 0.028572
+
+9, 40000/60000, success : 983/1000
+Average Loss : 0.036056
+
+9, 41000/60000, success : 989/1000
+Average Loss : 0.025303
+
+9, 42000/60000, success : 985/1000
+Average Loss : 0.035394
+
+9, 43000/60000, success : 987/1000
+Average Loss : 0.027731
+
+9, 44000/60000, success : 990/1000
+Average Loss : 0.026815
+
+9, 45000/60000, success : 991/1000
+Average Loss : 0.025018
+
+9, 46000/60000, success : 990/1000
+Average Loss : 0.027845
+
+9, 47000/60000, success : 990/1000
+Average Loss : 0.024080
+
+9, 48000/60000, success : 983/1000
+Average Loss : 0.037300
+
+9, 49000/60000, success : 993/1000
+Average Loss : 0.018620
+
+9, 50000/60000, success : 986/1000
+Average Loss : 0.032521
+
+9, 51000/60000, success : 990/1000
+Average Loss : 0.022161
+
+9, 52000/60000, success : 993/1000
+Average Loss : 0.019165
+
+9, 53000/60000, success : 987/1000
+Average Loss : 0.032560
+
+9, 54000/60000, success : 985/1000
+Average Loss : 0.033287
+
+9, 55000/60000, success : 988/1000
+Average Loss : 0.029307
+
+9, 56000/60000, success : 993/1000
+Average Loss : 0.021127
+
+9, 57000/60000, success : 992/1000
+Average Loss : 0.022620
+
+9, 58000/60000, success : 995/1000
+Average Loss : 0.017299
+
+9, 59000/60000, success : 994/1000
+Average Loss : 0.012207
+
+9, 60000/60000, success : 991/1000
+Average Loss : 0.021712
+
+0.989650
+
+
+
+9 test result : 0.983800
+
+Error rate : 0.016200
+
+
+
+
+10,  1000/60000, success : 987/1000
+Average Loss : 0.030617
+
+10,  2000/60000, success : 986/1000
+Average Loss : 0.032481
+
+10,  3000/60000, success : 988/1000
+Average Loss : 0.026572
+
+10,  4000/60000, success : 993/1000
+Average Loss : 0.016923
+
+10,  5000/60000, success : 992/1000
+Average Loss : 0.020468
+
+10,  6000/60000, success : 990/1000
+Average Loss : 0.025184
+
+10,  7000/60000, success : 991/1000
+Average Loss : 0.023879
+
+10,  8000/60000, success : 991/1000
+Average Loss : 0.024610
+
+10,  9000/60000, success : 986/1000
+Average Loss : 0.031929
+
+10, 10000/60000, success : 994/1000
+Average Loss : 0.015403
+
+10, 11000/60000, success : 988/1000
+Average Loss : 0.027180
+
+10, 12000/60000, success : 994/1000
+Average Loss : 0.019306
+
+10, 13000/60000, success : 993/1000
+Average Loss : 0.018681
+
+10, 14000/60000, success : 991/1000
+Average Loss : 0.022728
+
+10, 15000/60000, success : 988/1000
+Average Loss : 0.030015
+
+10, 16000/60000, success : 988/1000
+Average Loss : 0.025925
+
+10, 17000/60000, success : 988/1000
+Average Loss : 0.024352
+
+10, 18000/60000, success : 989/1000
+Average Loss : 0.028164
+
+10, 19000/60000, success : 991/1000
+Average Loss : 0.020804
+
+10, 20000/60000, success : 992/1000
+Average Loss : 0.019299
+
+10, 21000/60000, success : 992/1000
+Average Loss : 0.025548
+
+10, 22000/60000, success : 993/1000
+Average Loss : 0.017841
+
+10, 23000/60000, success : 995/1000
+Average Loss : 0.014673
+
+10, 24000/60000, success : 991/1000
+Average Loss : 0.025871
+
+10, 25000/60000, success : 986/1000
+Average Loss : 0.036060
+
+10, 26000/60000, success : 990/1000
+Average Loss : 0.026117
+
+10, 27000/60000, success : 986/1000
+Average Loss : 0.028901
+
+10, 28000/60000, success : 993/1000
+Average Loss : 0.017344
+
+10, 29000/60000, success : 994/1000
+Average Loss : 0.017846
+
+10, 30000/60000, success : 996/1000
+Average Loss : 0.013809
+
+10, 31000/60000, success : 992/1000
+Average Loss : 0.020608
+
+10, 32000/60000, success : 987/1000
+Average Loss : 0.034337
+
+10, 33000/60000, success : 989/1000
+Average Loss : 0.027034
+
+10, 34000/60000, success : 992/1000
+Average Loss : 0.020904
+
+10, 35000/60000, success : 989/1000
+Average Loss : 0.030181
+
+10, 36000/60000, success : 988/1000
+Average Loss : 0.029826
+
+10, 37000/60000, success : 991/1000
+Average Loss : 0.024664
+
+10, 38000/60000, success : 986/1000
+Average Loss : 0.033999
+
+10, 39000/60000, success : 988/1000
+Average Loss : 0.024559
+
+10, 40000/60000, success : 985/1000
+Average Loss : 0.033154
+
+10, 41000/60000, success : 991/1000
+Average Loss : 0.023903
+
+10, 42000/60000, success : 986/1000
+Average Loss : 0.034818
+
+10, 43000/60000, success : 989/1000
+Average Loss : 0.025121
+
+10, 44000/60000, success : 991/1000
+Average Loss : 0.024157
+
+10, 45000/60000, success : 989/1000
+Average Loss : 0.026190
+
+10, 46000/60000, success : 989/1000
+Average Loss : 0.028262
+
+10, 47000/60000, success : 991/1000
+Average Loss : 0.025280
+
+10, 48000/60000, success : 983/1000
+Average Loss : 0.038914
+
+10, 49000/60000, success : 996/1000
+Average Loss : 0.015238
+
+10, 50000/60000, success : 987/1000
+Average Loss : 0.030625
+
+10, 51000/60000, success : 992/1000
+Average Loss : 0.019403
+
+10, 52000/60000, success : 993/1000
+Average Loss : 0.019099
+
+10, 53000/60000, success : 986/1000
+Average Loss : 0.031189
+
+10, 54000/60000, success : 987/1000
+Average Loss : 0.028761
+
+10, 55000/60000, success : 988/1000
+Average Loss : 0.027684
+
+10, 56000/60000, success : 994/1000
+Average Loss : 0.020676
+
+10, 57000/60000, success : 992/1000
+Average Loss : 0.023521
+
+10, 58000/60000, success : 994/1000
+Average Loss : 0.016788
+
+10, 59000/60000, success : 995/1000
+Average Loss : 0.011526
+
+10, 60000/60000, success : 993/1000
+Average Loss : 0.020628
+
+0.990150
+
+
+
+10 test result : 0.985200
+
+Error rate : 0.014800
+
+
+-   - - -   - - - 
+          - - - - 
+  - +   -   -     
++       + + + +   
++ + + + + + + +   
+- + + + + + + + + 
+- - - - + -   - + 
+- - - - - - -     
+  - - - - - - - - 
+
+-0.597402 -0.108669 -0.442038 -0.644387 -0.289741 -0.156769 -0.986038 -0.718444 -0.335405 
+0.117415 -0.157511 -0.053380 -0.113061 -0.182895 -0.739236 -1.152905 -1.169089 -0.839449 
+0.010601 -0.234683 0.201349 -0.034936 -0.296294 -0.145947 -0.387003 -0.072480 -0.049680 
+0.541221 0.111876 0.055908 -0.048104 0.370754 0.389065 1.017371 0.373584 -0.011868 
+0.876392 0.944751 0.658185 0.953347 0.791878 0.847119 1.102387 1.022397 0.178257 
+-0.367294 0.746106 0.434183 1.314916 0.306400 0.957886 0.963225 0.455166 0.900193 
+-0.743973 -0.413708 -0.625710 -0.292319 0.697915 -0.208416 0.013551 -0.288266 0.492672 
+-1.350761 -1.694036 -1.013785 -1.523577 -1.216237 -1.049769 -0.892360 -0.038761 -0.057418 
+0.031015 -0.919342 -1.146587 -1.544491 -1.199444 -1.121538 -0.518482 -0.464319 -0.298248 
+
+- - - - - - -     
+    - - - - - - - 
++   + - +   - - - 
++ +       + -   + 
++ -   - -   + + + 
++ - -   +   + +   
+- + + +     + + - 
++ + +   + +     - 
+    +   + +   + + 
+
+-0.496755 -0.574746 -0.722509 -0.908153 -0.714657 -0.551054 -0.608498 -0.178304 0.059054 
+0.108847 -0.099276 -0.349760 -0.211800 -0.470094 -0.342513 -0.498079 -0.946472 -1.052678 
+0.406637 -0.120975 0.472824 -0.335800 0.246309 -0.157873 -0.559752 -0.739792 -1.149847 
+0.817909 0.372843 -0.143130 0.056848 0.104467 0.264652 -0.255617 -0.140726 0.250937 
+0.353623 -0.200761 -0.009283 -0.251203 -0.495742 -0.163508 0.250242 0.699277 1.079425 
+0.286323 -0.209003 -0.439888 0.073062 0.273965 -0.128828 0.547056 0.913494 0.157514 
+-0.380155 0.491278 0.389540 0.256614 -0.127562 -0.150699 0.262481 0.246266 -0.401884 
+0.451697 0.390873 0.576780 0.137090 0.604346 0.224094 -0.085684 -0.189287 -0.251763 
+0.003050 0.025500 0.238896 -0.060624 0.809135 0.467219 -0.011789 0.251359 0.276270 
+
++ +   - - - - + + 
++ - - - - + + +   
+- - - - + + +   - 
+- - + + + + - - - 
+-     + + - - - + 
+      - - -     + 
+-         + + + - 
++                 
+  +   -     -     
+
+0.580237 0.522688 0.017083 -1.034497 -1.190399 -1.044453 -0.424088 0.407332 0.210201 
+0.768538 -0.504266 -1.294177 -1.323556 -0.466531 0.367910 1.400012 0.954787 0.116368 
+-0.737818 -1.195116 -1.211819 -0.253280 0.647548 1.373709 0.764927 -0.018907 -0.460585 
+-1.277539 -0.607219 0.255579 1.019036 0.577998 0.444329 -0.512794 -0.663547 -1.051402 
+-0.660037 -0.171757 0.170831 0.282174 0.541349 -0.206269 -0.782324 -1.098682 0.285963 
+-0.104606 -0.197836 0.028150 -0.393613 -0.572175 -0.580342 -0.193480 0.117691 0.831277 
+-0.376303 0.010306 -0.091917 -0.087696 0.059597 0.256196 0.280990 0.331617 -0.531659 
+0.327462 0.115153 -0.071979 0.014788 0.008232 0.103599 -0.142528 -0.023019 -0.126038 
+0.159500 0.300171 -0.059617 -0.296931 0.070391 0.077022 -0.331751 -0.059875 0.129703 
+
+  - -     + + +   
++ +   - - - + + + 
++ + - - - - -   + 
+  + +   - - - -   
+  + + + - - - - - 
+-   + + +   -   - 
+- - - + + + +   - 
+- - -   + + +     
+  - - -   + + + - 
+
+-0.005197 -0.399045 -0.398822 -0.012797 0.013272 0.298159 0.201494 0.249405 0.020508 
+0.646580 0.252575 -0.187555 -0.643904 -0.499023 -0.297072 0.423617 0.438476 0.620882 
+0.565862 0.604579 -0.542142 -0.909609 -1.077359 -0.748038 -0.292236 -0.066142 0.276759 
+-0.100576 1.027109 1.181628 -0.093118 -0.914959 -1.118423 -1.168037 -1.004807 0.111530 
+-0.072166 0.793273 1.442128 1.083798 -0.213096 -0.695036 -0.542943 -1.302261 -0.880302 
+-0.685734 -0.149561 0.721210 1.534020 0.841555 0.113750 -0.213376 -0.072174 -0.802518 
+-0.655000 -0.552733 -0.238182 0.913373 1.446570 0.658383 0.250788 0.020864 -0.476749 
+-0.351700 -0.785117 -0.589282 -0.174135 0.834792 0.810997 0.281580 0.062288 -0.071343 
+0.092199 -0.266810 -0.530282 -0.593304 -0.198879 0.613866 0.307164 0.327422 -0.256310 
+
+- - - - - - - - - 
+- - - - - - - - - 
+- - -   -   + +   
+- -   -   + +   - 
+- - - + + + +     
+- -   + + +   -   
+- -   + +   - -   
+- -   + +   - - + 
+-     + +   - -   
+
+-1.258889 -0.798339 -1.170842 -1.117293 -0.507455 -0.811004 -0.349138 -0.312747 -0.266196 
+-0.309583 -0.394569 -0.880380 -0.329691 -0.361891 -0.735483 -0.358503 -0.510867 -0.408373 
+-0.250774 -0.262464 -0.736740 -0.180894 -0.258436 0.077865 0.318132 0.591981 0.056739 
+-0.691629 -0.372416 0.013578 -0.281240 -0.001243 0.761714 0.477091 0.023995 -0.380306 
+-0.985542 -0.206617 -0.322896 0.377057 0.809735 0.539702 0.292486 0.155758 -0.167549 
+-0.609847 -0.289186 0.129268 0.524970 0.802612 0.532494 -0.086218 -0.573524 0.157472 
+-1.332310 -0.638479 0.133090 0.667667 0.801533 0.000128 -0.221782 -0.824442 0.146453 
+-1.264085 -0.916896 0.166081 1.149608 0.706335 -0.085156 -0.680720 -0.930484 0.310527 
+-0.927640 -0.186793 0.085760 1.087681 0.812446 0.121665 -1.154914 -1.066632 0.054349 
+
+  - - + +   -   - 
+  -   + +         
+    + + - - - -   
+  - +   -   - + + 
+  - - -   +   -   
++ - + + + +     - 
++ + + + + + + - + 
++ +   - + + + + - 
+- - - - - -   + - 
+
+0.082493 -0.400556 -0.481490 0.359464 0.217370 -0.037553 -0.203729 0.135790 -0.805335 
+0.181142 -0.463007 -0.112963 0.602831 0.334824 -0.005370 0.183341 -0.042146 -0.134064 
+0.093509 -0.194226 0.279743 0.208337 -0.275528 -0.256329 -0.310856 -0.383606 -0.177190 
+-0.075318 -0.378106 0.299890 0.065958 -0.459636 0.179013 -0.256340 0.615691 0.328973 
+-0.004820 -0.276756 -0.566709 -0.622561 -0.080611 0.247188 0.190522 -0.278237 -0.074268 
+0.586089 -0.236271 0.409346 0.798410 0.448044 0.221041 0.025481 0.011398 -0.528532 
+0.420000 0.968201 1.346882 0.549549 0.602901 0.310507 0.573236 -0.312654 0.413018 
+0.418928 0.279862 0.193547 -0.362947 0.521561 0.254565 0.404668 0.491923 -0.259307 
+-0.854661 -0.763060 -0.780216 -0.466357 -0.454435 -0.265353 0.011850 0.246264 -0.299427 
+
+- +   + + + +   - 
++   + + +   +   - 
+-   + + - - -   - 
++ + + -       + - 
++ +     - - + - - 
++ +   - -   -   - 
++ + + - - -   +   
++   + - - -   -   
++ + + - - - -   + 
+
+-0.516214 0.366174 -0.071574 0.323825 0.737702 0.778278 0.417689 0.182846 -0.646881 
+0.214439 -0.062621 0.205145 0.404230 1.131083 -0.120657 0.256124 -0.108793 -0.394515 
+-0.235019 0.146107 0.755571 0.310342 -0.471633 -0.209737 -0.393009 -0.032242 -0.203634 
+0.376102 0.589507 0.460925 -0.517970 -0.131533 -0.099232 -0.049752 0.453227 -0.435997 
+0.237010 0.273175 0.096005 -0.031013 -0.210950 -0.423433 0.253135 -0.270627 -0.810313 
+0.484946 0.642816 -0.077793 -0.518377 -0.575946 -0.193046 -0.426783 -0.168196 -0.263556 
+0.438154 0.641003 0.294783 -0.239119 -0.316040 -0.281215 0.187303 0.245994 -0.144860 
+0.428246 -0.093341 0.478132 -0.418664 -0.289978 -0.263213 -0.191101 -0.384048 -0.140772 
+0.202835 0.590483 0.352214 -0.328124 -0.254622 -0.232326 -0.544091 -0.072184 0.251116 
+
++     - + + + + - 
+- -   + + + -   - 
++ + + +     -   - 
++ + + + - - - - - 
+  +   - - - - - + 
+- - - - - - -   - 
+- - - - - - - -   
+  - - -   +   + - 
++ + + +   -     - 
+
+0.200282 0.058160 0.019457 -0.583981 0.425646 0.736757 0.838899 0.692296 -0.268532 
+-0.389424 -0.344784 0.066022 0.460739 0.619050 0.847166 -0.384720 -0.112976 -1.139979 
+0.253002 0.631156 0.412880 0.583771 0.160403 0.055344 -0.436759 -0.189920 -0.719933 
+0.504733 1.054008 0.807154 0.542718 -0.274551 -0.347441 -0.470612 -0.749757 -0.419370 
+0.111261 0.217387 -0.047741 -0.442548 -0.299371 -1.002675 -0.380786 -0.416583 0.236096 
+-1.145846 -1.177829 -1.003933 -1.096616 -0.949201 -0.665472 -0.744938 -0.013972 -0.489191 
+-1.464770 -1.132492 -1.095546 -1.103050 -0.595103 -0.423569 -0.504100 -0.274975 0.017072 
+-0.145616 -0.309238 -0.773749 -0.263803 -0.184749 0.246340 0.101369 0.365668 -0.271153 
+0.587201 0.711115 0.864394 0.571117 -0.095679 -0.217705 0.099648 0.134259 -0.210042 
+
